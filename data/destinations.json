@@ -224,8 +224,8 @@
     "language": "Irish (Gaelic)",
     "sites": [
       {
-        "name": "Soiscéal an Lae – Evangelizo (Irish)",
-        "url": "https://www.evangelizo.org/ga/",
+        "name": "Soiscéal an Lae (Gaelic)",
+        "url": "https://soiscealanlae.org/GA/gospel",
         "description": "The first dedicated Irish-language (Gaeilge) daily Mass readings service, launched in 2024. A collaboration between Evangelizo and Irish-language volunteers. Full permission granted by An Bíobla Naofa. Endorsed by the Irish Bishops' Conference.",
         "content": ["léachtaí an lae", "soiscéal", "lá féile naomh", "macnamh spioradálta"]
       },
