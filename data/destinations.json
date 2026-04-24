@@ -1,0 +1,246 @@
+[
+  {
+    "language": "English",
+    "sites": [
+      {
+        "name": "USCCB Daily Bible Reading",
+        "url": "https://bible.usccb.org/daily-bible-reading",
+        "description": "Official U.S. Catholic Bishops' daily Mass readings, audio podcast, and liturgical calendar. Authoritative source for US dioceses.",
+        "content": ["daily Mass readings", "audio podcast", "saints", "liturgical calendar"]
+      },
+      {
+        "name": "EWTN Daily Readings",
+        "url": "https://www.ewtn.com/catholicism/daily-readings",
+        "description": "EWTN's daily Mass readings with online video of daily Mass, reflections, and a global televised Mass guide.",
+        "content": ["daily Mass readings", "video Mass", "saints", "reflections"]
+      },
+      {
+        "name": "Universalis",
+        "url": "https://universalis.com/mass.htm",
+        "description": "Full Liturgy of the Hours, daily Mass readings, saints' biographies and feasts, and regional calendar options worldwide.",
+        "content": ["daily Mass readings", "Liturgy of the Hours", "saints", "feast days", "liturgical calendar"]
+      },
+      {
+        "name": "Catholic Online – Daily Readings",
+        "url": "https://www.catholic.org/bible/daily_reading/",
+        "description": "Daily readings, saint of the day, prayers, rosary, and a comprehensive Catholic encyclopedia.",
+        "content": ["daily Mass readings", "saint of the day", "prayers", "rosary"]
+      },
+      {
+        "name": "Dynamic Catholic – Mass Readings Today",
+        "url": "https://www.dynamiccatholic.com/mass-readings-today",
+        "description": "Daily Mass readings with reflections and daily inspiration, from Dynamic Catholic.",
+        "content": ["daily Mass readings", "daily reflections", "saints"]
+      }
+    ]
+  },
+  {
+    "language": "Spanish",
+    "sites": [
+      {
+        "name": "USCCB Lecturas del Día",
+        "url": "https://bible.usccb.org/es/daily-bible-reading",
+        "description": "Official U.S. Catholic Bishops' daily Mass readings in Spanish. Full primera lectura, salmo, segunda lectura, and evangelio, drawn from the Mexican Lectionary approved for US use.",
+        "content": ["primera lectura", "salmo responsorial", "segunda lectura", "evangelio", "calendario litúrgico"]
+      },
+      {
+        "name": "Vatican News – Evangelio y Lecturas del Día (Spanish)",
+        "url": "https://www.vaticannews.va/es/evangelio-de-hoy.html",
+        "description": "Vatican News Spanish edition: full daily Mass readings (primera lectura, salmo, segunda lectura, evangelio) with a papal reflection. Audio available.",
+        "content": ["primera lectura", "salmo responsorial", "segunda lectura", "evangelio", "reflexión del papa"]
+      },
+      {
+        "name": "Ciudad Redonda – Lecturas del Día",
+        "url": "https://www.ciudadredonda.org/evangelio-lecturas-hoy/",
+        "description": "Run by the Dominican Order (Spain). Full daily Mass readings — primera lectura, salmo, segunda lectura, and evangelio — plus a homily/reflection. Ideal for following the Mass in Spanish-speaking countries.",
+        "content": ["primera lectura", "salmo responsorial", "segunda lectura", "evangelio", "homilía"]
+      }
+    ]
+  },
+  {
+    "language": "Italian",
+    "sites": [
+      {
+        "name": "ChiesaCattolica.it – Liturgia del Giorno",
+        "url": "https://www.chiesacattolica.it/liturgia-del-giorno/",
+        "description": "Official website of the Italian Bishops' Conference (CEI). Daily liturgy, Liturgy of the Hours, saint of the day, and the Bible.",
+        "content": ["liturgia del giorno", "liturgia delle ore", "santo del giorno", "bibbia"]
+      },
+      {
+        "name": "LaChiesa.it – Liturgia di Oggi",
+        "url": "https://www.lachiesa.it/liturgiadioggi/",
+        "description": "Perpetual liturgical calendar, daily readings, Gospel of the day, and homilies in Italian.",
+        "content": ["letture del giorno", "vangelo del giorno", "calendario liturgico", "omelie"]
+      },
+      {
+        "name": "Vatican News – Vangelo e Parola del Giorno (Italian)",
+        "url": "https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html",
+        "description": "Vatican News Italian edition: daily Gospel and daily Word accompanied by papal thoughts.",
+        "content": ["vangelo del giorno", "letture", "pensiero dei papi", "santo del giorno"]
+      }
+    ]
+  },
+  {
+    "language": "French",
+    "sites": [
+      {
+        "name": "AELF – Messe du Jour",
+        "url": "https://www.aelf.org/",
+        "description": "The official Association Épiscopale Liturgique pour les pays Francophones. Full daily Mass readings for all French-speaking countries: première lecture, psaume, deuxième lecture, and évangile, with the complete texts.",
+        "content": ["première lecture", "psaume responsorial", "deuxième lecture", "évangile", "calendrier liturgique"]
+      },
+      {
+        "name": "Église Catholique en France – Textes de la Messe du Jour",
+        "url": "https://eglise.catholique.fr/textes-du-jour/",
+        "description": "Official French Bishops' Conference website. Full daily Mass readings including première lecture, psaume, deuxième lecture, and évangile, with homily resources.",
+        "content": ["première lecture", "psaume responsorial", "deuxième lecture", "évangile", "homélies"]
+      },
+      {
+        "name": "Vatican News – Évangile et Lectures du Jour (French)",
+        "url": "https://www.vaticannews.va/fr/evangile-du-jour.html",
+        "description": "Vatican News French edition: full daily Mass readings with a papal reflection and audio. Follows the Roman liturgical calendar.",
+        "content": ["première lecture", "psaume", "évangile", "réflexion du pape", "audio"]
+      }
+    ]
+  },
+  {
+    "language": "German",
+    "sites": [
+      {
+        "name": "Erzabtei Beuron – Schott Tagesliturgie",
+        "url": "https://www.erzabtei-beuron.de/schott-tagesliturgie/",
+        "description": "The Archabbey of Beuron's famous 'Schott' daily liturgy: Mass readings, prayers, and the liturgical year in German. Widely considered the gold standard for German Catholic liturgical content.",
+        "content": ["tageslesungen", "tagesliturgie", "heilige des tages", "kirchenjahr"]
+      },
+      {
+        "name": "Katholisch.de – Kalenderblatt / Tagesliturgie",
+        "url": "https://www.katholisch.de/glaube/unser-kalenderblatt",
+        "description": "Official portal of the Catholic Church in Germany. Daily liturgy, Liturgy of the Hours, name days, saints, and Catholic news.",
+        "content": ["tageslesungen", "heilige des tages", "namenstage", "kirchenkalender"]
+      },
+      {
+        "name": "Vatican News – Evangelium des Tages (German)",
+        "url": "https://www.vaticannews.va/de/evangelium-des-tages.html",
+        "description": "Vatican News German edition: daily Gospel and papal reflections.",
+        "content": ["evangelium des tages", "lesungen", "gedanke des papstes", "heilige"]
+      }
+    ]
+  },
+  {
+    "language": "Portuguese",
+    "sites": [
+      {
+        "name": "CNBB – Liturgia Diária",
+        "url": "https://liturgiadiaria.cnbb.org.br/",
+        "description": "Official daily liturgy from the Brazilian Bishops' Conference (CNBB). Daily Mass readings in Portuguese for Brazil and Portuguese-speaking countries.",
+        "content": ["leituras do dia", "evangelho", "liturgia das horas", "santos"]
+      },
+      {
+        "name": "Vatican News – Evangelho do Dia (Portuguese)",
+        "url": "https://www.vaticannews.va/pt/evangelho-do-dia.html",
+        "description": "Vatican News Portuguese edition: daily Gospel and Word of the Day with papal reflections.",
+        "content": ["evangelho do dia", "leituras", "pensamento do papa", "santos"]
+      },
+      {
+        "name": "Evangelizo – Português",
+        "url": "https://pt.evangelizo.org/",
+        "description": "Free daily Mass readings and Gospel reflections in Portuguese. Available online and via email subscription.",
+        "content": ["leituras do dia", "evangelho", "reflexão diária", "santos"]
+      }
+    ]
+  },
+  {
+    "language": "Japanese",
+    "sites": [
+      {
+        "name": "カトリック中央協議会 (Catholic Bishops' Conference of Japan)",
+        "url": "https://www.cbcj.catholic.jp/",
+        "description": "Official website of the Catholic Bishops' Conference of Japan. Liturgical resources, daily Mass booklets ('Mainichi no Misa'), and the Japanese Catholic liturgical calendar.",
+        "content": ["毎日のミサ", "典礼暦", "聖書朗読", "聖人"]
+      },
+      {
+        "name": "霊性センターせせらぎ – 毎日のみことば",
+        "url": "https://seseragi-sc.jp/bible-cat/weekday/",
+        "description": "Daily Word of God (weekday and Sunday readings) in Japanese with spiritual reflections from the Spirituality Center Seseragi.",
+        "content": ["毎日のみことば", "日曜日のみことば", "霊的黙想", "聖書"]
+      },
+      {
+        "name": "Vatican News – 今日の福音 (Japanese)",
+        "url": "https://www.vaticannews.va/ja/word-of-the-day.html",
+        "description": "Vatican News Japanese edition: daily Gospel and Word of the Day.",
+        "content": ["今日の福音", "今日のみことば", "聖人", "教皇の言葉"]
+      }
+    ]
+  },
+  {
+    "language": "Afrikaans",
+    "notes": "There is no major dedicated Afrikaans-only Catholic liturgical website. The Catholic Church in South Africa primarily ministers in English. The best resources for Afrikaans-speaking South African Catholics are the English-language South African Catholic sites and the Universalis South Africa calendar below.",
+    "sites": [
+      {
+        "name": "Universalis – South Africa",
+        "url": "https://universalis.com/africa.safrica/0/mass.htm",
+        "description": "Universalis with the South African liturgical calendar applied. Full daily Mass readings and Liturgy of the Hours in English, calibrated for the Southern African Catholic Bishops' Conference calendar.",
+        "content": ["daily Mass readings", "Liturgy of the Hours", "saints", "South African calendar"]
+      },
+      {
+        "name": "Archdiocese of Cape Town – Daily Mass Readings",
+        "url": "https://adct.org.za/mass-readings/",
+        "description": "Daily Mass readings for South African Catholics provided by the Archdiocese of Cape Town.",
+        "content": ["daily Mass readings", "breviary", "prayers", "South African Church"]
+      },
+      {
+        "name": "Southern African Catholic Bishops' Conference (SACBC)",
+        "url": "https://sacbc.org.za/",
+        "description": "Official portal of the Southern African Catholic Bishops' Conference. News, pastoral letters, and links to liturgical resources for southern Africa.",
+        "content": ["Church news", "pastoral letters", "liturgical resources", "saints"]
+      }
+    ]
+  },
+  {
+    "language": "Nigerian (English – Nigeria)",
+    "notes": "Nigeria does not have a unique liturgical language. Nigerian Catholics worship primarily in English, using the Roman Rite approved by the Catholic Bishops' Conference of Nigeria (CBCN). The sites below serve the Nigerian Catholic community specifically.",
+    "sites": [
+      {
+        "name": "Nigeria Catholic Network – Daily Readings & Reflections",
+        "url": "https://www.nigeriacatholicnetwork.com/readings/",
+        "description": "Official network of the Catholic Secretariat of Nigeria (CSN). Daily readings with reflections from Nigerian priests and religious. The primary hub for the Catholic Church in Nigeria.",
+        "content": ["daily Mass readings", "daily reflections", "Nigerian saints", "Church news"]
+      },
+      {
+        "name": "Catholic Readings – Nigeria Tag",
+        "url": "https://catholicreadings.org/tag/nigeria/",
+        "description": "CatholicReadings.org curated content tagged for Nigeria, including saint of the day, daily reflections, and readings.",
+        "content": ["daily Mass readings", "saint of the day", "reflections", "Nigeria-specific feasts"]
+      },
+      {
+        "name": "Vatican News – English (used widely in Nigeria)",
+        "url": "https://www.vaticannews.va/en/word-of-the-day.html",
+        "description": "Vatican News English edition: daily Gospel and Word of the Day with papal reflections, widely used by Nigerian Catholics.",
+        "content": ["daily Gospel", "saint of the day", "papal news", "Church universal"]
+      }
+    ]
+  },
+  {
+    "language": "Irish (Gaelic)",
+    "sites": [
+      {
+        "name": "Soiscéal an Lae – Evangelizo (Irish)",
+        "url": "https://www.evangelizo.org/ga/",
+        "description": "The first dedicated Irish-language (Gaeilge) daily Mass readings service, launched in 2024. A collaboration between Evangelizo and Irish-language volunteers. Full permission granted by An Bíobla Naofa. Endorsed by the Irish Bishops' Conference.",
+        "content": ["léachtaí an lae", "soiscéal", "lá féile naomh", "macnamh spioradálta"]
+      },
+      {
+        "name": "CatholicIreland.net – Readings (with Irish option)",
+        "url": "https://www.catholicireland.net/readings/",
+        "description": "Ireland's main Catholic news and resource site. Daily readings in English with a 'Léachtaí Gaeilge' (Irish readings) link for each day. Also features saints, reflection, and Church news.",
+        "content": ["daily readings", "léachtaí Gaeilge", "saints", "thought for the day", "Irish Church news"]
+      },
+      {
+        "name": "Universalis – Ireland",
+        "url": "https://universalis.com/ireland/mass.htm",
+        "description": "Full Liturgy of the Hours and daily Mass readings calibrated to the Irish liturgical calendar (in English).",
+        "content": ["daily Mass readings", "Liturgy of the Hours", "Irish saints", "feast days"]
+      }
+    ]
+  }
+]
