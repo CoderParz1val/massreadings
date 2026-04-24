@@ -42,7 +42,7 @@ body::before{
   height: 100vh;
   background: url("./assets/left-watermark.png") no-repeat left center;
   background-size: cover;
-  opacity: 0.14;
+  opacity: 0.25;
   filter: saturate(0.9) contrast(1.05);
   pointer-events: none;
   z-index: 0;
