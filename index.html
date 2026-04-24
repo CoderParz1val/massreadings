@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Find your church page</title>
+    <meta
+      name="description"
+      content="Select your language and we’ll send you to the best church page for daily Mass needs, readings, and more."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <div class="brand">
+          <div class="logo" aria-hidden="true">✝</div>
+          <div class="brandText">
+            <h1 class="title">Welcome</h1>
+            <p class="subtitle">
+              Choose your language and we’ll direct you to the best matching church page for Mass, readings, and daily
+              needs.
+            </p>
+          </div>
+        </div>
+      </header>
+
+      <section class="card" aria-label="Language selection">
+        <div class="row">
+          <div class="field">
+            <label for="languageSelect">Language</label>
+            <select id="languageSelect"></select>
+          </div>
+          <div class="actions">
+            <a id="goBtn" class="button primary" href="#" rel="noopener noreferrer">Go</a>
+          </div>
+        </div>
+
+        <div class="result" id="result" role="status" aria-live="polite"></div>
+
+        <details class="details">
+          <summary>Can’t find your language?</summary>
+          <p class="muted">
+            Ask us to add it. For now, pick the closest option and use the destination site’s language switcher if
+            available.
+          </p>
+        </details>
+      </section>
+
+      <footer class="footer"></footer>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
